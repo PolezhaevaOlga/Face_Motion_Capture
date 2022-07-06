@@ -7,7 +7,7 @@ The 3D data was captured using a motion capture system.
 
 This repository contains:
 
-- **LSTM_smile** : this folder contains data preprocessing scripts and experiments comparing Baseline and the best trained LSTM model.
+- **LSTM_smile**: this folder contains data preprocessing scripts and experiments comparing Baseline and the best trained LSTM model.
 - **DeepSmile**: this folder is the source code of the software.
 
 ## Pipeline
