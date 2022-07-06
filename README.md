@@ -16,8 +16,16 @@ This repository contains:
 
 ## How to reproduce:
 
-1. Download the archive  [DeepSmile](https://drive.google.com/file/d/1LHC0isDdlVEOu2xm7c39yGxJ7oFKVDm2/view?usp=sharing) containing softwarethe for Windows and the trained model.  Extract the archive folder.
-2. Run `DeepSmile.exe`  to determine the extent of the anomaly.
+To evaluate facial movement, the following steps must be followed.
+1. Markers are placed on the patient's face, as for a motion capture session, (see pipeline).
+2. The patient is asked to smile while writing markers.
+3. Markers are marked and exported to a csv file.
+Finally, the csv file is uploaded to DeepSmile through its GUI and a report is generated based on the LSTM score.
+
+**Launching the software**:
+
+- Download the archive  [DeepSmile](https://drive.google.com/file/d/1LHC0isDdlVEOu2xm7c39yGxJ7oFKVDm2/view?usp=sharing) containing softwarethe for Windows and the trained model.  Extract the archive folder.
+- Run `DeepSmile.exe`  to determine the extent of the anomaly.
 
 ## Results
  
