@@ -17,7 +17,7 @@ This repository contains:
 ## Pipeline
 
 <p align=center>
-<img src="ipeline.png" width="50%">
+<img src="pipeline.png" width="50%">
 </p>
 
 ## How to reproduce:
