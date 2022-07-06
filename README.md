@@ -18,7 +18,7 @@ This repository contains:
 
 ![pipeline](pipeline.png)
 
-## How to reproduce:
+## How to reproduce
 
 To evaluate facial movement, the following steps must be followed.
 1. Markers are placed on the patient's face, as for a motion capture session, (see pipeline).
