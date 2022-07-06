@@ -20,8 +20,6 @@ This repository contains:
 <img src="ipeline.png" width="50%">
 </p>
 
-![pipeline](pipeline.png)
-
 ## How to reproduce:
 
 To evaluate facial movement, the following steps must be followed.
