@@ -1,9 +1,13 @@
 # Face_Motion_Capture
 
-Applying Machine Learning to face Motion Capture Data.
+Applying Machine Learning to face motion capture data.
 
 This repository is an example of Anomaly Detection Software for Facial Movement Assessment, called “DeepSmile: Anomaly Detector”. The software has an integrated trained LSTM model. The model predicts healthy smiles since it was trained on a dataset that contains healthy smiles using the One-Class strategy.
 The 3D data was captured using a motion capture system.
+
+<p align=center>
+<img src="images/mvt_h.gif" width="50%">
+</p>
 
 This repository contains:
 
@@ -11,6 +15,10 @@ This repository contains:
 - **DeepSmile**: this folder is the source code of the software.
 
 ## Pipeline
+
+<p align=center>
+<img src="ipeline.png" width="50%">
+</p>
 
 ![pipeline](pipeline.png)
 
@@ -42,12 +50,16 @@ Once the assessment is finished, DeepSmile provides a report that contains:
 You will require:
 
 - Python version 3.8.10 or later; 
-- Windows 10
+- Windows 10.
 
 
 ## References
 
-**ARTICLE**
+
+1. Adolphs N., Haebel and all. (2014). Virtual planning for craniomaxillofacial surgery–7 years of experience. Journal of CranioMaxillofacial Surgery, 42(5), e289–e295.
+2. Sarhan F.-R. (2017). Quantification des mouvements de la mimique faciale par motion capture sur une population de volontaires sains. PhD thesis, Compiègne. 
+3. Olivetto, M., Sarhan, F. R., Mansour, K. B., Marie, J. P., Marin, F., & Dakpé, S. (2019). Quantitative Analysis of Facial Palsy Based on 3D Motion Capture (SiMoVi-FaceMoCap Project). Archives of Physical Medicine and Rehabilitation, 100(10), e112.
+
 
 ## Contacts
 
