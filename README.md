@@ -6,7 +6,7 @@ This repository is an example of Anomaly Detection Software for Facial Movement 
 The 3D data was captured using a motion capture system.
 
 <p align=center>
-<img src="images/mvt_h.gif" width="40%">
+<img src="images/mvt_h.gif" width="60%">
 </p>
 
 This repository contains:
