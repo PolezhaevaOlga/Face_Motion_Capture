@@ -2,6 +2,8 @@
 
 Applying Machine Learning to face motion capture data.
 
+Project article https://www.mdpi.com/2075-4418/13/2/254
+
 This repository is an example of Anomaly Detection Software for Facial Movement Assessment, called “DeepSmile: Anomaly Detector”. The software has an integrated trained LSTM model. The model predicts healthy smiles since it was trained on a dataset that contains healthy smiles using the One-Class strategy.
 The 3D data was captured using a motion capture system.
 
